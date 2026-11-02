@@ -1,0 +1,10 @@
+OPCAO A - GitHub (sem instalar nada)
+1. Crie conta gratis em github.com e um repositorio novo (New repository).
+2. Envie TODO o conteudo desta pasta (inclusive a pasta oculta .github) pelo
+   botao Add file > Upload files (arraste a pasta pelo computador).
+3. Abra a aba Actions > "Gerar APK" > espere ficar verde (uns 3-5 min).
+4. Clique na execucao e baixe "MeuMes-apk" em Artifacts. Dentro esta o app-debug.apk.
+
+OPCAO B - Android Studio
+File > Open > pasta MeuMes > Build > Build APK(s).
+Saida: app/build/outputs/apk/debug/app-debug.apk
